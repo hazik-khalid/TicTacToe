@@ -54,8 +54,8 @@ git clone https://github.com/yourusername/tic-tac-toe.git
 g++ tic_tac_toe.cpp -o tic_tac_toe
 ```
 4. Run the game:
-bash```
-./tic_tac_toe
-```
+ ```bash
+  ./tic_tac_toe
+ ```
 
 
