@@ -32,3 +32,39 @@ This is a basic Tic Tac Toe game where two players take turns placing their mark
     7   |  8  |  9  
         |     |     
 ```
+
+3. **Take Turns**:
+- Players take turns entering a position number to place their marker.
+
+4. **Win or Tie**:
+- The game checks for a winning combination or a tie after each move.
+- The game ends when a player wins or when the board is full.
+
+## Getting Started
+
+### Prerequisites
+
+- C++ compiler (e.g., g++)
+- Command line or terminal
+
+### Running the Game
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/tic-tac-toe.git
+```
+2. Navigate to the project directory:
+   ```bash
+   cd tic-tac-toe
+```
+3. Compile the code:
+```bash
+g++ tic_tac_toe.cpp -o tic_tac_toe
+```
+4. Run the game:
+bash```
+./tic_tac_toe
+```
+
+
