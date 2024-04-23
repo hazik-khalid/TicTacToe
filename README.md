@@ -33,15 +33,6 @@ This is a basic Tic Tac Toe game where two players take turns placing their mark
         |     |     
 ```
 
-3. **Take Turns**:
-- Players take turns entering a position number to place their marker.
-
-4. **Win or Tie**:
-- The game checks for a winning combination or a tie after each move.
-- The game ends when a player wins or when the board is full.
-
-## Getting Started
-
 ### Prerequisites
 
 - C++ compiler (e.g., g++)
