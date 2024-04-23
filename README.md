@@ -31,7 +31,7 @@ This is a basic Tic Tac Toe game where two players take turns placing their mark
         |     |     
     7   |  8  |  9  
         |     |     
-```
+   ```
 
 ### Prerequisites
 
@@ -48,7 +48,7 @@ git clone https://github.com/yourusername/tic-tac-toe.git
 2. Navigate to the project directory:
    ```bash
    cd tic-tac-toe
-```
+   ```
 3. Compile the code:
 ```bash
 g++ tic_tac_toe.cpp -o tic_tac_toe
