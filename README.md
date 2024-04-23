@@ -20,14 +20,15 @@ This is a basic Tic Tac Toe game where two players take turns placing their mark
    
 2. **Game Board**:
    - The game board is represented as a 3x3 grid with positions numbered from 1 to 9.
+   - 
    ```bash
+         |     |     
+    1  |  2  |  3  
+   _____|_____|_____
       |     |     
- 1  |  2  |  3  
-_____|_____|_____
-   |     |     
- 4  |  5  |  6  
-_____|_____|_____
-   |     |     
- 7  |  8  |  9  
-   |     |     
+    4  |  5  |  6  
+   _____|_____|_____
+      |     |     
+    7  |  8  |  9  
+      |     |     
 ```
